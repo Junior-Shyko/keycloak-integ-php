@@ -1,5 +1,5 @@
 {
-    "name": "junior/keycloak-integ-php",
+    "name": "Junior-Shyko/keycloak-integ-php",
     "description": "Pacote php para integração do SSO Keycloak com php",
     "type": "library",
     "autoload": {
