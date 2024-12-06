@@ -1,7 +1,7 @@
 {
     "name": "junior-shyko/keycloak-integ-php",
     "description": "Pacote php para integração do SSO Keycloak com php",
-    "type": "library",
+    "type": "package",
     "autoload": {
         "psr-4": {
             "Junior\\KeycloakIntegPhp\\": "src/"
@@ -16,5 +16,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=8.2"
-    }
+    },
+    "license": "MIT"
 }
