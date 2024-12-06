@@ -15,7 +15,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=8.2"
+        "php": ">=8.2",
+        "stevenmaguire/oauth2-keycloak": "^5.1",
+        "symfony/routing": "^7.1",
+        "symfony/security-bundle": "^7.1",
+        "symfony/http-kernel": "^7.1",
+        "symfony/framework-bundle": "^7.1"
     },
     "license": "MIT"
 }
