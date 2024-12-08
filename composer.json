@@ -1,10 +1,10 @@
 {
-    "name": "junior-shyko/keycloak-integ-php",
+    "name": "juniorshyko/keycloak-integ-php",
     "description": "Pacote php para integração do SSO Keycloak com php",
     "type": "package",
     "autoload": {
         "psr-4": {
-            "Junior\\KeycloakIntegPhp\\": "src/"
+            "JuniorShyko\\KeycloakIntegPhp\\": "src/"
         }
     },
     "authors": [
